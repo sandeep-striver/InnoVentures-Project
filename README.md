@@ -5,7 +5,8 @@ This Streamlit application allows users to interact with a CSV file using a conv
 via Ollama. The app facilitates querying data from the CSV file and retrieving answers through a chat interface.
 
 
-![image](https://github.com/user-attachments/assets/3865e196-f86f-4f21-9b97-24c64c739444)
+![Screenshot 2024-09-15 150923](https://github.com/user-attachments/assets/9b62a89a-58a0-40c7-979a-519f4eac78d9)
+
 
 
 TECHSTACK  Used in It
